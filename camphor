@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>AI Chicken</title>
+        <style>
+            body {
+            background-color: rgb(240, 240, 240);
+            font-family: monospace;
+            color: rgb(20, 20, 20);
+            }
+            .page{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 30px;
+            }
+            .title{
+                padding: 150px
+            }
+            
+        </style>
+    </head>
+    
+    <body>
+    
+        <p class = "title"> <center> Camphor </center> <br>
+        <center> by Isabella Melendez </center> </p>
+        <p class = "title"> <center> </center> </p>
+        
+        <img class = "page" src = "https://user-images.githubusercontent.com/83099768/237007919-f1d00fe2-2b39-4671-9dc7-0b1cd6cb3e6e.png" width = 45%>
+      
+        <img class = "page" src = "https://user-images.githubusercontent.com/83099768/237007998-e07085ee-4797-4442-873f-0876642ff9b5.png" width = 90%>
+          
+        <img class = "page" src = "https://user-images.githubusercontent.com/83099768/237008138-8708debc-520c-4ab4-852c-70a818c03951.png" width = 90%>
+      
+        <img class = "page" src = "https://user-images.githubusercontent.com/83099768/237008203-ec53f4d6-28ed-4f0f-826a-5c8e05b0eb3c.png" width = 45%>
+    
+        
+    </body>
+</html>
