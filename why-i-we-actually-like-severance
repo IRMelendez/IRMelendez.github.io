@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>SoupAndTart</title>
+        <title>WhyIWeActuallyLikeSeverance</title>
         <style>
             body {
             background-color: rgb(240, 240, 240);
@@ -23,5 +23,7 @@
     </head>
     
     <body>
+        <p class = "title"> 
+            <center> Why I Actually Like Severance </center> <br>
     </body>
 </html>
